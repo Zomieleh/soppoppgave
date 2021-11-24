@@ -1,0 +1,14 @@
+body {
+    background-color: #795c34;
+    font-family: Garamond, serif;
+}
+h1, h2 {
+    font-family: Helvetica, sans-serif;
+}
+div {
+    width: 60%;
+    background-color: white;
+    border: 1px solid #795c34;
+    margin: 20px auto;
+    padding: 20px 40px;
+}

@@ -1,0 +1,13 @@
+body {
+    background-color: #795c34;
+    font-family: Garamond, serif;
+}
+#hoved {
+    width: 60%;
+    margin: 50px auto;
+    padding: 40px;
+    background-color: White;
+    border: 1px solid #795c34;
+}
+h1, h2 {
+    font-family: Arial, sans-serif;
